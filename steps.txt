@@ -1,0 +1,21 @@
+first i have created the file code.py with the python calendar program.
+Then I have Created the File App.yaml with specifying the required runtime and file.
+Then i have pushed these files to Github for submission
+after creating new project
+Then I cloned this Folder to new project that is  local again 
+Then went To current Directory of these files
+used gcloud app deploy command for deployment
+i got the differnt servers to host in different regions.
+after choosing one of the region i hosted it using that gcloud app deploy command
+then for getting url i used gcloud app browse.
+
+commands:
+gcloud projects create cloud
+gcloud config set project cloud
+after this git clone 
+gcloud app deploy
+
+(choose the server option)
+
+gcloud browse app
+
